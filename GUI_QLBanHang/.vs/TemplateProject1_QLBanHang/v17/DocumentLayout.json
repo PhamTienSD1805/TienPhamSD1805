@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\DAUMINHDUONG_SD1805\\DAUMINHDUONG_SD1805\\ProjectSOF102\\GUI_QLBanHang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D98BC52A-19DD-498A-A70C-141916F5040F}|GUI_QLBanHang.csproj|c:\\users\\admin\\desktop\\dauminhduong_sd1805\\dauminhduong_sd1805\\projectsof102\\gui_qlbanhang\\frmthongtinnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D98BC52A-19DD-498A-A70C-141916F5040F}|GUI_QLBanHang.csproj|solutionrelative:frmthongtinnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98BC52A-19DD-498A-A70C-141916F5040F}|GUI_QLBanHang.csproj|c:\\users\\admin\\desktop\\dauminhduong_sd1805\\dauminhduong_sd1805\\projectsof102\\gui_qlbanhang\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D98BC52A-19DD-498A-A70C-141916F5040F}|GUI_QLBanHang.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09857DF8-B0D7-4BF1-9D84-02C1C479FB63}|..\\TestDN\\UTNV.csproj|c:\\users\\admin\\desktop\\dauminhduong_sd1805\\dauminhduong_sd1805\\projectsof102\\testdn\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9593E83-5FE0-4EF6-88FB-FA27BD54D97F}|..\\UTkhach\\UTkhach.csproj|c:\\users\\admin\\desktop\\dauminhduong_sd1805\\dauminhduong_sd1805\\projectsof102\\utkhach\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0FBBEF-B43A-49AF-9B69-EA36A0114A28}|..\\UTHang\\UTHang.csproj|c:\\users\\admin\\desktop\\dauminhduong_sd1805\\dauminhduong_sd1805\\projectsof102\\uthang\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98BC52A-19DD-498A-A70C-141916F5040F}|GUI_QLBanHang.csproj|C:\\Users\\Admin\\Desktop\\DAUMINHDUONG_SD1805\\DAUMINHDUONG_SD1805\\ProjectSOF102\\GUI_QLBanHang\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D98BC52A-19DD-498A-A70C-141916F5040F}|GUI_QLBanHang.csproj|solutionrelative:frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98BC52A-19DD-498A-A70C-141916F5040F}|GUI_QLBanHang.csproj|C:\\Users\\Admin\\Desktop\\DAUMINHDUONG_SD1805\\DAUMINHDUONG_SD1805\\ProjectSOF102\\GUI_QLBanHang\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D98BC52A-19DD-498A-A70C-141916F5040F}|GUI_QLBanHang.csproj|solutionrelative:frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F5CF57-B3E4-4547-AF57-8CFE2B4F29FC}|..\\DAL_QLBanHang\\DAL_QLBanHang.csproj|c:\\users\\admin\\desktop\\dauminhduong_sd1805\\dauminhduong_sd1805\\projectsof102\\dal_qlbanhang\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmThongTinNV.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DAUMINHDUONG_SD1805\\DAUMINHDUONG_SD1805\\ProjectSOF102\\GUI_QLBanHang\\FrmThongTinNV.cs",
+              "RelativeDocumentMoniker": "FrmThongTinNV.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DAUMINHDUONG_SD1805\\DAUMINHDUONG_SD1805\\ProjectSOF102\\GUI_QLBanHang\\FrmThongTinNV.cs [Design]",
+              "RelativeToolTip": "FrmThongTinNV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T09:38:43.646Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DAUMINHDUONG_SD1805\\DAUMINHDUONG_SD1805\\ProjectSOF102\\GUI_QLBanHang\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DAUMINHDUONG_SD1805\\DAUMINHDUONG_SD1805\\ProjectSOF102\\GUI_QLBanHang\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-25T09:38:29.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DAUMINHDUONG_SD1805\\DAUMINHDUONG_SD1805\\ProjectSOF102\\TestDN\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\TestDN\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DAUMINHDUONG_SD1805\\DAUMINHDUONG_SD1805\\ProjectSOF102\\TestDN\\UnitTest1.cs",
+              "RelativeToolTip": "..\\TestDN\\UnitTest1.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAwwC4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T09:24:22.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DAUMINHDUONG_SD1805\\DAUMINHDUONG_SD1805\\ProjectSOF102\\UTkhach\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\UTkhach\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DAUMINHDUONG_SD1805\\DAUMINHDUONG_SD1805\\ProjectSOF102\\UTkhach\\UnitTest1.cs",
+              "RelativeToolTip": "..\\UTkhach\\UnitTest1.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwBcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T09:23:28.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DAUMINHDUONG_SD1805\\DAUMINHDUONG_SD1805\\ProjectSOF102\\UTHang\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\UTHang\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DAUMINHDUONG_SD1805\\DAUMINHDUONG_SD1805\\ProjectSOF102\\UTHang\\UnitTest1.cs",
+              "RelativeToolTip": "..\\UTHang\\UnitTest1.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAQwGkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T09:21:03.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmDangNhap.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DAUMINHDUONG_SD1805\\DAUMINHDUONG_SD1805\\ProjectSOF102\\GUI_QLBanHang\\FrmDangNhap.cs",
+              "RelativeDocumentMoniker": "FrmDangNhap.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DAUMINHDUONG_SD1805\\DAUMINHDUONG_SD1805\\ProjectSOF102\\GUI_QLBanHang\\FrmDangNhap.cs",
+              "RelativeToolTip": "FrmDangNhap.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAAAMIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T09:20:35.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmDangNhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DAUMINHDUONG_SD1805\\DAUMINHDUONG_SD1805\\ProjectSOF102\\GUI_QLBanHang\\FrmDangNhap.cs",
+              "RelativeDocumentMoniker": "FrmDangNhap.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DAUMINHDUONG_SD1805\\DAUMINHDUONG_SD1805\\ProjectSOF102\\GUI_QLBanHang\\FrmDangNhap.cs [Design]",
+              "RelativeToolTip": "FrmDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T09:20:32.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DBConnect.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DAUMINHDUONG_SD1805\\DAUMINHDUONG_SD1805\\ProjectSOF102\\DAL_QLBanHang\\DBConnect.cs",
+              "RelativeDocumentMoniker": "..\\DAL_QLBanHang\\DBConnect.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DAUMINHDUONG_SD1805\\DAUMINHDUONG_SD1805\\ProjectSOF102\\DAL_QLBanHang\\DBConnect.cs",
+              "RelativeToolTip": "..\\DAL_QLBanHang\\DBConnect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T09:17:29.204Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

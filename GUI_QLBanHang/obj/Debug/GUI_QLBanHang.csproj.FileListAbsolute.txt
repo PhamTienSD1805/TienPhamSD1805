@@ -1,0 +1,501 @@
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\TemplateProject1_QLBanHang.exe.config
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\TemplateProject1_QLBanHang.exe.manifest
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\TemplateProject1_QLBanHang.application
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\TemplateProject1_QLBanHang.exe
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\TemplateProject1_QLBanHang.pdb
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\BouncyCastle.Cryptography.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\BUS_QLBanHang.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\Castle.Core.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\DTO_QLBanHang.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\MailKit.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\Microsoft.ApplicationInsights.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\Microsoft.Testing.Extensions.MSBuild.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\Microsoft.Testing.Extensions.Telemetry.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\Microsoft.Testing.Extensions.TrxReport.Abstractions.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\Microsoft.Testing.Extensions.VSTestBridge.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\Microsoft.Testing.Platform.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\Microsoft.TestPlatform.CoreUtilities.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\MimeKit.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\Moq.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\nunit.framework.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\nunit.framework.legacy.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\System.Buffers.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\System.Collections.Immutable.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\System.Formats.Asn1.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\System.Memory.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\System.Numerics.Vectors.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\System.Reflection.Metadata.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\System.ValueTuple.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\DAL_QLBanHang.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\BUS_QLBanHang.pdb
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\BUS_QLBanHang.dll.config
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\DTO_QLBanHang.pdb
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\DTO_QLBanHang.dll.config
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\BouncyCastle.Cryptography.xml
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\Castle.Core.xml
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\MailKit.pdb
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\MailKit.xml
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\MailKit.dll.config
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\Microsoft.ApplicationInsights.pdb
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\Microsoft.ApplicationInsights.xml
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\Microsoft.Testing.Extensions.MSBuild.xml
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\Microsoft.Testing.Extensions.Telemetry.xml
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\Microsoft.Testing.Extensions.TrxReport.Abstractions.xml
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\Microsoft.Testing.Extensions.VSTestBridge.xml
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\Microsoft.Testing.Platform.xml
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\MimeKit.pdb
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\MimeKit.xml
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\nunit.framework.xml
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\nunit.framework.legacy.xml
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\System.Buffers.xml
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\System.Collections.Immutable.xml
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\System.Formats.Asn1.xml
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\System.Memory.xml
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\System.Numerics.Vectors.xml
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\System.Reflection.Metadata.xml
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\System.ValueTuple.xml
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\DAL_QLBanHang.pdb
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\DAL_QLBanHang.dll.config
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\cs\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\de\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\es\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\fr\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\it\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\ja\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\ko\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\pl\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\pt-BR\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\ru\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\tr\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\zh-Hans\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\zh-Hant\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\cs\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\de\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\es\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\fr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\it\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\ja\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\ko\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\pl\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\pt-BR\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\ru\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\tr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\zh-Hans\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\zh-Hant\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\cs\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\de\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\es\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\fr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\it\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\ja\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\ko\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\pl\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\pt-BR\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\ru\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\tr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\zh-Hans\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\zh-Hant\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\cs\Microsoft.Testing.Platform.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\de\Microsoft.Testing.Platform.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\es\Microsoft.Testing.Platform.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\fr\Microsoft.Testing.Platform.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\it\Microsoft.Testing.Platform.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\ja\Microsoft.Testing.Platform.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\ko\Microsoft.Testing.Platform.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\pl\Microsoft.Testing.Platform.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\pt-BR\Microsoft.Testing.Platform.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\ru\Microsoft.Testing.Platform.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\tr\Microsoft.Testing.Platform.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\zh-Hans\Microsoft.Testing.Platform.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\zh-Hant\Microsoft.Testing.Platform.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\obj\Debug\GUI_QLBanHang.csproj.AssemblyReference.cache
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\obj\Debug\GUI_QLBanHang.csproj.ResolveComReference.cache
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.FrmDangNhap.resources
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.FrmKhach.resources
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.FrmMain.resources
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.frmHang.resources
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.frmNhanVien.resources
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.FrmThongKe.resources
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.FrmThongTinNV.resources
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.Properties.Resources.resources
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\obj\Debug\GUI_QLBanHang.csproj.GenerateResource.cache
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\obj\Debug\GUI_QLBanHang.csproj.CoreCompileInputs.cache
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.exe.manifest
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.application
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\obj\Debug\GUI_QLBa.12D288D4.Up2Date
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.exe
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.pdb
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\NUnit3.TestAdapter.pdb
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\nunit.engine.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\nunit.engine.api.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\nunit.engine.core.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\testcentric.engine.metadata.dll
+D:\ProjectSoF102\ProjectSOF102\GUI_QLBanHang\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\nunit.engine.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\nunit.engine.api.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\nunit.engine.core.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\TemplateProject1_QLBanHang.exe.config
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\TemplateProject1_QLBanHang.exe.manifest
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\TemplateProject1_QLBanHang.application
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\TemplateProject1_QLBanHang.exe
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\TemplateProject1_QLBanHang.pdb
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\BUS_QLBanHang.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\Castle.Core.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\DTO_QLBanHang.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\MailKit.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\Microsoft.ApplicationInsights.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\Microsoft.Testing.Extensions.MSBuild.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\Microsoft.Testing.Extensions.Telemetry.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\Microsoft.Testing.Extensions.TrxReport.Abstractions.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\Microsoft.Testing.Extensions.VSTestBridge.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\Microsoft.Testing.Platform.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\MimeKit.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\Moq.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\nunit.framework.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\nunit.framework.legacy.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\System.Buffers.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\System.Collections.Immutable.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\System.Formats.Asn1.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\System.Memory.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\System.ValueTuple.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\DAL_QLBanHang.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\BUS_QLBanHang.pdb
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\BUS_QLBanHang.dll.config
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\DTO_QLBanHang.pdb
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\DTO_QLBanHang.dll.config
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\Castle.Core.xml
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\MailKit.pdb
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\MailKit.xml
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\MailKit.dll.config
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\Microsoft.ApplicationInsights.pdb
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\Microsoft.ApplicationInsights.xml
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\Microsoft.Testing.Extensions.MSBuild.xml
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\Microsoft.Testing.Extensions.Telemetry.xml
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\Microsoft.Testing.Extensions.TrxReport.Abstractions.xml
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\Microsoft.Testing.Extensions.VSTestBridge.xml
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\Microsoft.Testing.Platform.xml
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\MimeKit.pdb
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\MimeKit.xml
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\nunit.framework.xml
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\nunit.framework.legacy.xml
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\System.Buffers.xml
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\System.Collections.Immutable.xml
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\System.Formats.Asn1.xml
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\System.Memory.xml
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\System.ValueTuple.xml
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\DAL_QLBanHang.pdb
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\DAL_QLBanHang.dll.config
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\cs\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\de\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\es\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\fr\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\it\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\ja\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\ko\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\pl\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\pt-BR\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\ru\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\tr\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\zh-Hans\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\zh-Hant\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\cs\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\de\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\es\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\fr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\it\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\ja\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\ko\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\pl\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\pt-BR\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\ru\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\tr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\zh-Hans\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\zh-Hant\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\cs\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\de\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\es\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\fr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\it\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\ja\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\ko\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\pl\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\pt-BR\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\ru\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\tr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\zh-Hans\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\zh-Hant\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\cs\Microsoft.Testing.Platform.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\de\Microsoft.Testing.Platform.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\es\Microsoft.Testing.Platform.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\fr\Microsoft.Testing.Platform.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\it\Microsoft.Testing.Platform.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\ja\Microsoft.Testing.Platform.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\ko\Microsoft.Testing.Platform.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\pl\Microsoft.Testing.Platform.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\pt-BR\Microsoft.Testing.Platform.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\ru\Microsoft.Testing.Platform.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\tr\Microsoft.Testing.Platform.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\zh-Hans\Microsoft.Testing.Platform.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\zh-Hant\Microsoft.Testing.Platform.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\obj\Debug\GUI_QLBanHang.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\obj\Debug\GUI_QLBanHang.csproj.ResolveComReference.cache
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.FrmDangNhap.resources
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.FrmKhach.resources
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.FrmMain.resources
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.frmHang.resources
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.frmNhanVien.resources
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.FrmThongKe.resources
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.FrmThongTinNV.resources
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.Properties.Resources.resources
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\obj\Debug\GUI_QLBanHang.csproj.GenerateResource.cache
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\obj\Debug\GUI_QLBanHang.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.exe.manifest
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.application
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\obj\Debug\GUI_QLBa.12D288D4.Up2Date
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.exe
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\GUI_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.pdb
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\nunit.engine.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\nunit.engine.api.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\nunit.engine.core.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\TemplateProject1_QLBanHang.exe.config
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\TemplateProject1_QLBanHang.exe.manifest
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\TemplateProject1_QLBanHang.application
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\TemplateProject1_QLBanHang.exe
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\TemplateProject1_QLBanHang.pdb
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\BUS_QLBanHang.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\Castle.Core.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\DTO_QLBanHang.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\MailKit.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\Microsoft.ApplicationInsights.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\Microsoft.Testing.Extensions.MSBuild.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\Microsoft.Testing.Extensions.Telemetry.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\Microsoft.Testing.Extensions.TrxReport.Abstractions.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\Microsoft.Testing.Extensions.VSTestBridge.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\Microsoft.Testing.Platform.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\MimeKit.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\Moq.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\nunit.framework.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\nunit.framework.legacy.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\System.Formats.Asn1.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\System.Memory.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\DAL_QLBanHang.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\BUS_QLBanHang.pdb
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\BUS_QLBanHang.dll.config
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\DTO_QLBanHang.pdb
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\DTO_QLBanHang.dll.config
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\Castle.Core.xml
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\MailKit.pdb
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\MailKit.xml
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\MailKit.dll.config
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\Microsoft.ApplicationInsights.pdb
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\Microsoft.ApplicationInsights.xml
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\Microsoft.Testing.Extensions.MSBuild.xml
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\Microsoft.Testing.Extensions.Telemetry.xml
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\Microsoft.Testing.Extensions.TrxReport.Abstractions.xml
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\Microsoft.Testing.Extensions.VSTestBridge.xml
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\Microsoft.Testing.Platform.xml
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\MimeKit.pdb
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\MimeKit.xml
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\nunit.framework.xml
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\nunit.framework.legacy.xml
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\System.Formats.Asn1.xml
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\System.Memory.xml
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\System.ValueTuple.xml
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\DAL_QLBanHang.pdb
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\DAL_QLBanHang.dll.config
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\cs\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\de\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\es\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\fr\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\it\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\ja\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\ko\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\pl\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\pt-BR\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\ru\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\tr\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\zh-Hans\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\zh-Hant\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\cs\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\de\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\es\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\fr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\it\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\ja\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\ko\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\pl\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\pt-BR\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\ru\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\tr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\zh-Hans\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\zh-Hant\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\cs\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\de\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\es\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\fr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\it\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\ja\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\ko\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\pl\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\pt-BR\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\ru\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\tr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\zh-Hans\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\zh-Hant\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\cs\Microsoft.Testing.Platform.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\de\Microsoft.Testing.Platform.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\es\Microsoft.Testing.Platform.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\fr\Microsoft.Testing.Platform.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\it\Microsoft.Testing.Platform.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\ja\Microsoft.Testing.Platform.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\ko\Microsoft.Testing.Platform.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\pl\Microsoft.Testing.Platform.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\pt-BR\Microsoft.Testing.Platform.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\ru\Microsoft.Testing.Platform.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\tr\Microsoft.Testing.Platform.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\zh-Hans\Microsoft.Testing.Platform.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\zh-Hant\Microsoft.Testing.Platform.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\obj\Debug\GUI_QLBanHang.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\obj\Debug\GUI_QLBanHang.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.FrmDangNhap.resources
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.FrmKhach.resources
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.FrmMain.resources
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.frmHang.resources
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.frmNhanVien.resources
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.FrmThongKe.resources
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.FrmThongTinNV.resources
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.Properties.Resources.resources
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\obj\Debug\GUI_QLBanHang.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\obj\Debug\GUI_QLBanHang.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.exe.manifest
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.application
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\obj\Debug\GUI_QLBa.12D288D4.Up2Date
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.exe
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\GUI_QLBanHang\obj\Debug\TemplateProject1_QLBanHang.pdb

@@ -1,0 +1,171 @@
+D:\ProjectSoF102\ProjectSOF102\UTkhach\bin\Debug\UTkhach.dll.config
+D:\ProjectSoF102\ProjectSOF102\UTkhach\bin\Debug\UTkhach.dll
+D:\ProjectSoF102\ProjectSOF102\UTkhach\bin\Debug\UTkhach.pdb
+D:\ProjectSoF102\ProjectSOF102\UTkhach\bin\Debug\BouncyCastle.Cryptography.dll
+D:\ProjectSoF102\ProjectSOF102\UTkhach\bin\Debug\BUS_QLBanHang.dll
+D:\ProjectSoF102\ProjectSOF102\UTkhach\bin\Debug\DAL_QLBanHang.dll
+D:\ProjectSoF102\ProjectSOF102\UTkhach\bin\Debug\DTO_QLBanHang.dll
+D:\ProjectSoF102\ProjectSOF102\UTkhach\bin\Debug\MailKit.dll
+D:\ProjectSoF102\ProjectSOF102\UTkhach\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\ProjectSoF102\ProjectSOF102\UTkhach\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\ProjectSoF102\ProjectSOF102\UTkhach\bin\Debug\MimeKit.dll
+D:\ProjectSoF102\ProjectSOF102\UTkhach\bin\Debug\System.Buffers.dll
+D:\ProjectSoF102\ProjectSOF102\UTkhach\bin\Debug\System.Formats.Asn1.dll
+D:\ProjectSoF102\ProjectSOF102\UTkhach\bin\Debug\System.Memory.dll
+D:\ProjectSoF102\ProjectSOF102\UTkhach\bin\Debug\System.Numerics.Vectors.dll
+D:\ProjectSoF102\ProjectSOF102\UTkhach\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ProjectSoF102\ProjectSOF102\UTkhach\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\ProjectSoF102\ProjectSOF102\UTkhach\bin\Debug\System.ValueTuple.dll
+D:\ProjectSoF102\ProjectSOF102\UTkhach\bin\Debug\TemplateProject1_QLBanHang.exe
+D:\ProjectSoF102\ProjectSOF102\UTkhach\bin\Debug\BUS_QLBanHang.pdb
+D:\ProjectSoF102\ProjectSOF102\UTkhach\bin\Debug\BUS_QLBanHang.dll.config
+D:\ProjectSoF102\ProjectSOF102\UTkhach\bin\Debug\DAL_QLBanHang.pdb
+D:\ProjectSoF102\ProjectSOF102\UTkhach\bin\Debug\DAL_QLBanHang.dll.config
+D:\ProjectSoF102\ProjectSOF102\UTkhach\bin\Debug\DTO_QLBanHang.pdb
+D:\ProjectSoF102\ProjectSOF102\UTkhach\bin\Debug\DTO_QLBanHang.dll.config
+D:\ProjectSoF102\ProjectSOF102\UTkhach\bin\Debug\TemplateProject1_QLBanHang.pdb
+D:\ProjectSoF102\ProjectSOF102\UTkhach\bin\Debug\TemplateProject1_QLBanHang.exe.config
+D:\ProjectSoF102\ProjectSOF102\UTkhach\bin\Debug\BouncyCastle.Cryptography.xml
+D:\ProjectSoF102\ProjectSOF102\UTkhach\bin\Debug\MailKit.pdb
+D:\ProjectSoF102\ProjectSOF102\UTkhach\bin\Debug\MailKit.xml
+D:\ProjectSoF102\ProjectSOF102\UTkhach\bin\Debug\MailKit.dll.config
+D:\ProjectSoF102\ProjectSOF102\UTkhach\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\ProjectSoF102\ProjectSOF102\UTkhach\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\ProjectSoF102\ProjectSOF102\UTkhach\bin\Debug\MimeKit.pdb
+D:\ProjectSoF102\ProjectSOF102\UTkhach\bin\Debug\MimeKit.xml
+D:\ProjectSoF102\ProjectSOF102\UTkhach\bin\Debug\System.Buffers.xml
+D:\ProjectSoF102\ProjectSOF102\UTkhach\bin\Debug\System.Formats.Asn1.xml
+D:\ProjectSoF102\ProjectSOF102\UTkhach\bin\Debug\System.Memory.xml
+D:\ProjectSoF102\ProjectSOF102\UTkhach\bin\Debug\System.Numerics.Vectors.xml
+D:\ProjectSoF102\ProjectSOF102\UTkhach\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ProjectSoF102\ProjectSOF102\UTkhach\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\ProjectSoF102\ProjectSOF102\UTkhach\bin\Debug\System.ValueTuple.xml
+D:\ProjectSoF102\ProjectSOF102\UTkhach\obj\Debug\UTkhach.csproj.AssemblyReference.cache
+D:\ProjectSoF102\ProjectSOF102\UTkhach\obj\Debug\UTkhach.csproj.CoreCompileInputs.cache
+D:\ProjectSoF102\ProjectSOF102\UTkhach\obj\Debug\UTkhach.csproj.Up2Date
+D:\ProjectSoF102\ProjectSOF102\UTkhach\obj\Debug\UTkhach.dll
+D:\ProjectSoF102\ProjectSOF102\UTkhach\obj\Debug\UTkhach.pdb
+D:\ProjectSoF102\ProjectSOF102\UTkhach\bin\Debug\NUnit3.TestAdapter.pdb
+D:\ProjectSoF102\ProjectSOF102\UTkhach\bin\Debug\nunit.engine.dll
+D:\ProjectSoF102\ProjectSOF102\UTkhach\bin\Debug\nunit.engine.api.dll
+D:\ProjectSoF102\ProjectSOF102\UTkhach\bin\Debug\nunit.engine.core.dll
+D:\ProjectSoF102\ProjectSOF102\UTkhach\bin\Debug\testcentric.engine.metadata.dll
+D:\ProjectSoF102\ProjectSOF102\UTkhach\bin\Debug\NUnit3.TestAdapter.dll
+D:\ProjectSoF102\ProjectSOF102\UTkhach\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\ProjectSoF102\ProjectSOF102\UTkhach\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\ProjectSoF102\ProjectSOF102\UTkhach\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\ProjectSoF102\ProjectSOF102\UTkhach\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\UTkhach\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\UTkhach\bin\Debug\nunit.engine.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\UTkhach\bin\Debug\nunit.engine.api.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\UTkhach\bin\Debug\nunit.engine.core.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\UTkhach\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\UTkhach\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\UTkhach\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\UTkhach\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\UTkhach\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\UTkhach\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\UTkhach\bin\Debug\UTkhach.dll.config
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\UTkhach\bin\Debug\UTkhach.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\UTkhach\bin\Debug\UTkhach.pdb
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\UTkhach\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\UTkhach\bin\Debug\BUS_QLBanHang.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\UTkhach\bin\Debug\DAL_QLBanHang.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\UTkhach\bin\Debug\DTO_QLBanHang.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\UTkhach\bin\Debug\MailKit.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\UTkhach\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\UTkhach\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\UTkhach\bin\Debug\MimeKit.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\UTkhach\bin\Debug\System.Buffers.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\UTkhach\bin\Debug\System.Formats.Asn1.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\UTkhach\bin\Debug\System.Memory.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\UTkhach\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\UTkhach\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\UTkhach\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\UTkhach\bin\Debug\System.ValueTuple.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\UTkhach\bin\Debug\TemplateProject1_QLBanHang.exe
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\UTkhach\bin\Debug\BUS_QLBanHang.pdb
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\UTkhach\bin\Debug\BUS_QLBanHang.dll.config
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\UTkhach\bin\Debug\DAL_QLBanHang.pdb
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\UTkhach\bin\Debug\DAL_QLBanHang.dll.config
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\UTkhach\bin\Debug\DTO_QLBanHang.pdb
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\UTkhach\bin\Debug\DTO_QLBanHang.dll.config
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\UTkhach\bin\Debug\TemplateProject1_QLBanHang.pdb
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\UTkhach\bin\Debug\TemplateProject1_QLBanHang.exe.config
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\UTkhach\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\UTkhach\bin\Debug\MailKit.pdb
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\UTkhach\bin\Debug\MailKit.xml
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\UTkhach\bin\Debug\MailKit.dll.config
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\UTkhach\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\UTkhach\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\UTkhach\bin\Debug\MimeKit.pdb
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\UTkhach\bin\Debug\MimeKit.xml
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\UTkhach\bin\Debug\System.Buffers.xml
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\UTkhach\bin\Debug\System.Formats.Asn1.xml
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\UTkhach\bin\Debug\System.Memory.xml
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\UTkhach\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\UTkhach\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\UTkhach\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\UTkhach\bin\Debug\System.ValueTuple.xml
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\UTkhach\obj\Debug\UTkhach.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\UTkhach\obj\Debug\UTkhach.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\UTkhach\obj\Debug\UTkhach.csproj.Up2Date
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\UTkhach\obj\Debug\UTkhach.dll
+C:\Users\PC\Documents\Zalo Received Files\ProjectSOF102\UTkhach\obj\Debug\UTkhach.pdb
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\UTkhach\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\UTkhach\bin\Debug\nunit.engine.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\UTkhach\bin\Debug\nunit.engine.api.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\UTkhach\bin\Debug\nunit.engine.core.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\UTkhach\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\UTkhach\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\UTkhach\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\UTkhach\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\UTkhach\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\UTkhach\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\UTkhach\bin\Debug\UTkhach.dll.config
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\UTkhach\bin\Debug\UTkhach.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\UTkhach\bin\Debug\UTkhach.pdb
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\UTkhach\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\UTkhach\bin\Debug\BUS_QLBanHang.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\UTkhach\bin\Debug\DAL_QLBanHang.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\UTkhach\bin\Debug\DTO_QLBanHang.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\UTkhach\bin\Debug\MailKit.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\UTkhach\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\UTkhach\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\UTkhach\bin\Debug\MimeKit.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\UTkhach\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\UTkhach\bin\Debug\System.Formats.Asn1.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\UTkhach\bin\Debug\System.Memory.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\UTkhach\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\UTkhach\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\UTkhach\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\UTkhach\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\UTkhach\bin\Debug\TemplateProject1_QLBanHang.exe
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\UTkhach\bin\Debug\BUS_QLBanHang.pdb
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\UTkhach\bin\Debug\BUS_QLBanHang.dll.config
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\UTkhach\bin\Debug\DAL_QLBanHang.pdb
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\UTkhach\bin\Debug\DAL_QLBanHang.dll.config
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\UTkhach\bin\Debug\DTO_QLBanHang.pdb
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\UTkhach\bin\Debug\DTO_QLBanHang.dll.config
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\UTkhach\bin\Debug\TemplateProject1_QLBanHang.pdb
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\UTkhach\bin\Debug\TemplateProject1_QLBanHang.exe.config
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\UTkhach\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\UTkhach\bin\Debug\MailKit.pdb
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\UTkhach\bin\Debug\MailKit.xml
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\UTkhach\bin\Debug\MailKit.dll.config
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\UTkhach\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\UTkhach\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\UTkhach\bin\Debug\MimeKit.pdb
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\UTkhach\bin\Debug\MimeKit.xml
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\UTkhach\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\UTkhach\bin\Debug\System.Formats.Asn1.xml
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\UTkhach\bin\Debug\System.Memory.xml
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\UTkhach\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\UTkhach\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\UTkhach\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\UTkhach\bin\Debug\System.ValueTuple.xml
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\UTkhach\obj\Debug\UTkhach.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\UTkhach\obj\Debug\UTkhach.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\UTkhach\obj\Debug\UTkhach.csproj.Up2Date
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\UTkhach\obj\Debug\UTkhach.dll
+C:\Users\Admin\Desktop\DAUMINHDUONG_SD1805\DAUMINHDUONG_SD1805\ProjectSOF102\UTkhach\obj\Debug\UTkhach.pdb
