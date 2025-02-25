@@ -44,7 +44,7 @@ namespace UTNV
             DTO_NhanVien nv = new DTO_NhanVien
             {
                 EmailNV = "fpoly@fe.edu.vn",
-                MatKhau = "15982191422716013219" // Cần kiểm tra cách lưu mật khẩu
+                MatKhau = "25021151190171999298" // Cần kiểm tra cách lưu mật khẩu
             };
             DAL_NhanVien login = new DAL_NhanVien();
 

@@ -103,7 +103,7 @@ namespace UTHang
         [TestMethod]
         public void TestDelete()
         {
-            string tenCanXoa = "h3"; // Chỉ xóa sản phẩm có tên này
+            string tenCanXoa = "h1"; // Chỉ xóa sản phẩm có tên này
 
             int maHang = dalHang.GetMaHangByTenHang(tenCanXoa);
             Assert.IsTrue(maHang > 0, $"Không tìm thấy sản phẩm có tên {tenCanXoa} để xóa");

@@ -208,28 +208,33 @@ namespace TemplateProject1_QLBanHang
                 }
             }
         }
+
         private void BtnMo_Click(object sender, EventArgs e)
         {
             OpenFileDialog dlgOpen = new OpenFileDialog();
             dlgOpen.Filter = "Bitmap(*.bmp)|*.bmp|JPEG(*.jpg)|*.jpg|GIF(*.gif)|*.gif|All files(*.*)|*.*";
-            dlgOpen.FilterIndex = 4;
+            dlgOpen.FilterIndex = 2;
             dlgOpen.Title = "Chọn ảnh minh hoạ cho sản phẩm";
             if (dlgOpen.ShowDialog() == DialogResult.OK)
             {
                 fileAddress = dlgOpen.FileName;
-                try
-                {
-                    pbHinh.Image = Image.FromFile(fileAddress);
-                }
-                catch
-                {
-                    MessageBox.Show("Lỗi khi load ảnh (trên máy của bạn không có ảnh này)");
-                }
-                fileName = Path.GetFileName(dlgOpen.FileName);
+                pbHinh.Image = Image.FromFile(fileAddress);
+
+                string fileExtension = Path.GetExtension(dlgOpen.FileName);
+                string randomFileName = GenerateRandomFileName(fileExtension);
+                fileName = randomFileName;
+
                 string saveDirectory = Application.StartupPath.Substring(0, (Application.StartupPath.Length - 10));
-                fileSavePath = saveDirectory + "\\Images\\" + fileName;// combine with file name*/
-                txtHinh.Text = "\\Images\\" + fileName;
+                fileSavePath = saveDirectory + "\\Images\\" + randomFileName;
+                txtHinh.Text = "\\Images\\" + randomFileName;
             }
+        }
+        private string GenerateRandomFileName(string fileExtension)
+        {
+            Random random = new Random();
+            int randomNumber = random.Next(100000, 999999);
+
+            return randomNumber.ToString() + fileExtension;
         }
         private void Dgvhang_Click(object sender, EventArgs e)
         {

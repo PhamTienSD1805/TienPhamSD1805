@@ -1326,14 +1326,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TemplateProject1_QLBanHang.exe" size="451584">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TemplateProject1_QLBanHang.exe" size="453120">
       <assemblyIdentity name="TemplateProject1_QLBanHang" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>erMFxqJ2ZfTOUcV3OCvku1x28F5C7sFep16QiSzf0iA=</dsig:DigestValue>
+        <dsig:DigestValue>ekogcyhB3ElHmPEw+AsAxHNQ0qEFMtDlDPEyF6muoEc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
